@@ -9,7 +9,7 @@ import StepRail from "@/components/StepRail";
 import ThemeToggle from "@/components/ThemeToggle";
 import ProcessingProgress from "@/components/ProcessingProgress";
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = "https://groweasy-backend-yd43.onrender.com";
 
 type Stage = "upload" | "preview" | "processing" | "result";
 
