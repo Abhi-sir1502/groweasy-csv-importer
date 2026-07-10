@@ -13,6 +13,29 @@ Backend API: https://groweasy-backend-yd43.onrender.com
 GitHub Repo: https://github.com/Abhi-sir1502/groweasy-csv-importer
 
 ---
+## Screenshots
+
+### CSV Upload
+
+
+![Upload](./screenshots/upload.png)
+
+### Preview
+
+
+![Preview](./screenshots/preview.png)
+
+
+### AI Mapping in Progress
+
+
+![AI Mapping](./screenshots/ai-mapping.png)
+
+
+### Results
+
+
+![Results](./screenshots/results.png)
 
 ## Overview
 
