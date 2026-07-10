@@ -8,9 +8,9 @@ Built for the GrowEasy Software Developer assignment.
 
 ## Live Demo
 
-- **Hosted App:** _[add your deployed frontend URL here]_
-- **Backend API:** _[add your deployed backend URL here]_
-- **GitHub Repo:** _[add your repo URL here]_
+Hosted App: https://groweasy-csv-importer-psi.vercel.app
+Backend API: https://groweasy-backend-yd43.onrender.com
+GitHub Repo: https://github.com/Abhi-sir1502/groweasy-csv-importer
 
 ---
 
